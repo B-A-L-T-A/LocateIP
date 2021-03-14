@@ -2,6 +2,10 @@
 import time
 import requests
 from colorama import init, Fore
+import os
+
+os.system("clear")
+
 while True:
     print(Fore.BLUE + """
  _                 _       ___ ____  
